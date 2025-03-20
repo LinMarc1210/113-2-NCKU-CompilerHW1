@@ -1,6 +1,6 @@
 CC := gcc
 CFLAGS := -Wall
-SRC := ans.l
+SRC := scanner.l
 TARGET := myscanner
 VERBOSE := 0
 
