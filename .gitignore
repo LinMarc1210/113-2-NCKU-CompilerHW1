@@ -1,4 +1,3 @@
 myscanner
 lex.* 
-*.out
 test.rs
